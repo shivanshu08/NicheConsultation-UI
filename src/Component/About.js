@@ -10,7 +10,7 @@ function About() {
             <div className="row">
                 <div className="col-lg-12">
                     <div className="section_title_all text-center">
-                        <h3 className="font-weight-bold">Welcome To <span className="text-custom">Ni Consultations</span></h3>
+                        <h3 className="font-weight-bold">Welcome To <span className="text-custom">Niche Consultations</span></h3>
                         <p className="section_subtitle mx-auto text-muted">Step into the world of Niche Consultations, <br/>where innovation and insight converge to empower your journey.</p>
                         <div className="">
                             <i className=""></i>
