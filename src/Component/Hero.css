@@ -70,7 +70,7 @@
     letter-spacing: 0.5px;
     color: rgba(0, 0, 0, 0.8);
     display: inline-block; /* Add this to make it not take full width */
-    margin-top: -10px; 
+    margin-top: -20px; 
 }
 
 .hero-text .hide{
@@ -102,7 +102,7 @@
         border-radius: 6px;
         font-size: 0.7rem;
         top: 0;
-        margin-top: -10px;
+        margin-top: -20px;
     }
     .hero-image{
         opacity: 0.5;
