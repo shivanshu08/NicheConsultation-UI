@@ -63,7 +63,7 @@
 .hero-text .show {
     text-decoration: none;
     background-color: #ffe089;
-    padding: 1rem 2rem;
+    padding: 0.5rem 1rem;
     border-radius: 4px;
     font-size: 1rem;
     font-weight: 550;
@@ -98,7 +98,7 @@
     }
 
     .hero-text .show {
-        padding: .6rem 1.1rem;
+        padding: 0.3rem 0.7rem;
         border-radius: 6px;
         font-size: 0.7rem;
         top: 0;

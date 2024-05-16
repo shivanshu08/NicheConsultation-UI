@@ -27,17 +27,6 @@ function ClientReviews() {
                   <p>Niche Consultations truly exceeded my expectations.
                     Their one-on-one mentorship and strategic advisory services have been instrumental in my success.
                   </p>
-                  <div className="social d-flex">
-                    <a href="#0" className="icon d-flex align-items-center justify-content-center">
-                      <i className="fab fa-facebook-f"></i>
-                    </a>
-                    <a href="#0" className="icon d-flex align-items-center justify-content-center">
-                      <i className="fab fa-twitter"></i>
-                    </a>
-                    <a href="#0" className="icon d-flex align-items-center justify-content-center">
-                      <i className="fab fa-dribbble"></i>
-                    </a>
-                  </div>
                 </div>
                 <div className="image"><img src={review6} alt="" className="img-fluid" /></div>
               </div>
