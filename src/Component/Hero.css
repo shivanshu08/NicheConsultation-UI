@@ -67,7 +67,7 @@
     border-radius: 4px;
     font-size: 1rem;
     font-weight: 550;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     color: rgba(0, 0, 0, 0.8);
     display: inline-block; /* Add this to make it not take full width */
     margin: 0 auto; /* Add this to center-align horizontally */
