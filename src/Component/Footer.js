@@ -15,7 +15,7 @@ function Footer() {
             </ul>
             <div className="last-row">
                     <div class="col-lg-12 col-sm-12 col-xs-12">
-                        <p class="copyright">Copyright © 2023 <a href="https://shivanshuu.netlify.app/" target='blank'>Shivanshu Dwivedi</a>.</p>
+                        <p class="copyright">Created By <a href="https://shivanshuu.netlify.app/" target='blank'>Shivanshu Dwivedi</a> || Copyright © 2023 </p>
                     </div>   
                     </div>             
         </footer>
