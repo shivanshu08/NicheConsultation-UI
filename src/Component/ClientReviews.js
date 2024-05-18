@@ -22,8 +22,8 @@ function ClientReviews() {
             <div className="col-lg-6">
               <div className="box d-flex align-items-center wow fadeInLeft">
                 <div className="content">
-                  <h3>Avery Grace
-                    <span>Chief Executive Officer</span></h3>
+                  <h3>Mahima
+                    <span>Senior Manager, EY</span></h3>
                   <p>Niche Consultations truly exceeded my expectations.
                     Their one-on-one mentorship and strategic advisory services have been instrumental in my success.
                   </p>
